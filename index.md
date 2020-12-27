@@ -11,7 +11,7 @@ The **WindsUp** App does not collect any user data nor does it share any user da
 The **WindsUp** App is provided “as is”, without warranty of any kind, express or implied, including but not limited to the warranties of merchantability, fitness for a particular purpose and noninfringement. In no event shall the author be liable for any claim, damages or other liability arising from, out of or in connection with this software or its use.
 
 #### Intellectual Property:
-The mathematical relationships used in the **WindsUp** App are taken with permission from James Douglass’s online calculators - See [Windsurfing](http://jimbodouglass.blogspot.com/2010/11/updated-windsurf-calculator-online.html) and [Kitesurfing] (http://jimbodouglass.blogspot.com/2011/01/interactive-kiteboarding-calculator.html)or details.
+The mathematical relationships used in the **WindsUp** App are taken with permission from James Douglass’s online calculators - See [Windsurfing](http://jimbodouglass.blogspot.com/2010/11/updated-windsurf-calculator-online.html) and [Kitesurfing](http://jimbodouglass.blogspot.com/2011/01/interactive-kiteboarding-calculator.html) for details.
 
 #### Common sense:
 It is the responsibility of the **WindsUp** App user to understand the proper use of their equipment, prevailing weather conditions and inherent dangers of windsurfing and kitesurfing. In other words, be safe!
