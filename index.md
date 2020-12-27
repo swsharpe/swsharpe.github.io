@@ -1,7 +1,5 @@
 ![](https://swsharpe.github.io/120.png)
 
-# The WindsUp App Website
-
 ## First the legal stuff required by Apple
 
 ### Privacy policy:
