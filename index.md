@@ -1,6 +1,4 @@
-# The WindsUp App Website 
-
-
+# The WindsUp App Website ![](https://swsharpe.github.io/120.png)
 
 ## First the legal stuff required by Apple
 
@@ -24,3 +22,7 @@ The App consists of three views including the home page, the legal disclaimer, t
 
 ### Platforms supported:
 Any iPhone still supported by Apple including 1st generation SE, running IOS 13 or higher. The App runs in portrait mode.
+
+![](https://swsharpe.github.io/HomePage.png)
+![](https://swsharpe.github.io/WindsurfPage.png)
+![](https://swsharpe.github.io/KitePage.png)
