@@ -19,7 +19,7 @@ It is the responsibility of the **WindsUp** App user to understand the proper us
 ### Brief description:
 **WindsUp** is an iPhone App to assist windsurfers and kitesurfers with equipment selection. Given the rider's weight (pounds or killograms), prevailing wind speed (mph or Knots) and style of board, this App will suggest sail and board sizes.
 
-The App consists of three views including the home page, the legal disclaimer, the windsurfing or the kitesurfing page. Each page is self explanatory and intuitive. To dimiss and return to the home page simply swipe down from the top of the view.
+The **WindsUp** App consists of four views including the home, disclaimer, windsurfing and kitesurfing pages. Each page is self explanatory. To dimiss and return to the home page simply swipe down from the top of the view.
 
 ### Platforms supported:
 Any iPhone still supported by Apple including 1st generation SE, running IOS 13 or higher. The App runs in portrait mode.
